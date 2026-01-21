@@ -1,0 +1,6 @@
+pyautogui
+pytesseract
+google-generativeai
+python-dotenv
+pygetwindow
+Pillow
